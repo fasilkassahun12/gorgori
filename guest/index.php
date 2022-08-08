@@ -4,6 +4,7 @@ include("header.php");
 ?>
 
     <div class="c2">
+        <h2>this is from fasile</h2>
         <div class="go_right">
             <script>
                 if(navigator.onLine)
